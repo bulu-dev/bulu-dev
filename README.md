@@ -1,8 +1,7 @@
 # Hi, I'm Sulan 👋  
 ### (Lead) Fullstack Developer • Computer Scientist
 
-I build tools, intuitive UIs, and developer‑first products.  
-My focus: **Clean architecture, DX, performance, and modern web technologies.**
+I build all kind of software either for fun or businesses.
 
 🌐 **Website:** [sulan.dev](https://sulan.dev)  
 💼 **LinkedIn:** [linkedin.com/in/sulan-abubakarov](https://linkedin.com/in/sulan-abubakarov)  
