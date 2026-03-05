@@ -4,9 +4,9 @@
 I build tools, intuitive UIs, and developer‑first products.  
 My focus: **Clean architecture, DX, performance, and modern web technologies.**
 
-🌐 **Website:** [sulan.dev](#)  
-💼 **LinkedIn:** [linkedin.com/in/sulan-abubakarov](#)  
-📫 **Contact:** [contact@sulan.dev](#)
+🌐 **Website:** [sulan.dev](sulan.dev)  
+💼 **LinkedIn:** [linkedin.com/in/sulan-abubakarov](linkedin.com/in/sulan-abubakarov)  
+📫 **Contact:** [contact@sulan.dev](contact@sulan.dev)
 
 ---
 
@@ -22,7 +22,7 @@ A high‑performance screen recorder built with **Angular + Electron**, designed
 ### 🧩 ArchitectVision — C4 Model Designer
 A developer‑first modeling tool for creating clean, expressive **C4 architecture diagrams**.  
 Fast, precise, and built with modern Angular.  
-**Website:** [architectvision.sulan.dev](#)  
+**Website:** [architectvision.sulan.dev](architectvision.sulan.dev)  
 **Repo [private]:** [architect-vision](#)
 
 ---
@@ -31,7 +31,7 @@ Fast, precise, and built with modern Angular.
 A JetBrains plugin that enhances property auto‑completion in `.properties` files.  
 Lightweight, Kotlin‑based, and published on the JetBrains Marketplace.  
 **Repo:** [ecproperty-intellij-plugin](#)  
-**Marketplace:** [plugins.jetbrains.com/plugin/30258-ecproperty-completion](#)
+**Marketplace:** [plugins.jetbrains.com/plugin/30258-ecproperty-completion](plugins.jetbrains.com/plugin/30258-ecproperty-completion)
 
 ---
 
@@ -52,13 +52,6 @@ Angular • Spring Boot • Electron • RxJS • IntelliJ Platform SDK • Dock
 
 **Architectural Focus:**  
 C4 Model • Clean Architecture • Modular Design • DX‑Optimized Tooling
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bulu-dev&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bulu-dev&layout=compact&theme=tokyonight)
 
 ---
 
