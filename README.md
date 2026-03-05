@@ -6,7 +6,7 @@ My focus: **Clean architecture, DX, performance, and modern web technologies.**
 
 🌐 **Website:** [sulan.dev](https://sulan.dev)  
 💼 **LinkedIn:** [linkedin.com/in/sulan-abubakarov](https://linkedin.com/in/sulan-abubakarov)  
-📫 **Contact:** [contact@sulan.dev](contact@sulan.dev)
+📫 **Contact:** [contact@sulan.dev](mailto:contact@sulan.dev)
 
 ---
 
