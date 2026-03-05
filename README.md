@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi, I'm Sulan 👋  
+### (Lead) Fullstack Developer • Computer Scientist
 
-<!--
-**bulu-dev/bulu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tools, intuitive UIs, and developer‑first products.  
+My focus: **Clean architecture, DX, performance, and modern web technologies.**
 
-Here are some ideas to get you started:
+🌐 **Website:** [sulan.dev](#)  
+💼 **LinkedIn:** [linkedin.com/in/sulan-abubakarov](#)  
+📫 **Contact:** [contact@sulan.dev](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 🎥 Schase — Cross‑Platform Screen Recorder  
+A high‑performance screen recorder built with **Angular + Electron**, designed for clarity, speed, and a smooth UX.  
+**Repo:** [schase-screen-recorder](#)  
+**Webfront [private]:** [schase-webfront](#)
+
+---
+
+### 🧩 ArchitectVision — C4 Model Designer
+A developer‑first modeling tool for creating clean, expressive **C4 architecture diagrams**.  
+Fast, precise, and built with modern Angular.  
+**Website:** [architectvision.sulan.dev](#)  
+**Repo [private]:** [architect-vision](#)
+
+---
+
+### 🧪 ECProperty IntelliJ Plugin  
+A JetBrains plugin that enhances property auto‑completion in `.properties` files.  
+Lightweight, Kotlin‑based, and published on the JetBrains Marketplace.  
+**Repo:** [ecproperty-intellij-plugin](#)  
+**Marketplace:** [plugins.jetbrains.com/plugin/30258-ecproperty-completion](#)
+
+---
+
+### 🧱 WireGen — Wireframe Editor  
+A simple but powerful wireframe editor for quickly sketching layout ideas.  
+Exports clean HTML/CSS and supports SSR‑friendly Angular setups.  
+**Repo:** [wiregen](#)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+TypeScript • Java • Kotlin • JavaScript • SCSS • HTML • CSS • ...
+
+**Frameworks & Tools:**  
+Angular • Spring Boot • Electron • RxJS • IntelliJ Platform SDK • Docker • Nginx • ...
+
+**Architectural Focus:**  
+C4 Model • Clean Architecture • Modular Design • DX‑Optimized Tooling
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bulu-dev&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bulu-dev&layout=compact&theme=tokyonight)
+
+---
+
+## ✨ About Me
+
+- I love building tools that **make developers faster and happier**.  
+- I enjoy combining **architecture**, **UI/UX**, and **performance engineering**.  
+- I’m currently working on:  
+  - Improving **Schase** for cross‑platform recording  
+  - Expanding **ArchitectVision** with more modeling features  
+  - Exploring **Angular 21+**, **SSR**, and **modern animation APIs**
+
+---
+
+## 📬 Get in Touch
+
+Feel free to reach out if you want to collaborate, discuss architecture, or just say hi!  
